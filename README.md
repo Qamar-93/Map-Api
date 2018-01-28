@@ -1,2 +1,21 @@
-#Map API
-new website
+# Google Maps Api assignment
+
+ > Two Interfaces implemented using the following:
+ 1) Node js (Express).
+ 2) React js (Front-end).
+ 3) Google maps Api.
+
+
+## How you can use it ?
+
+1) Please clone the repo using > git clone https://github.com/Qamar-93/Map-Api.git
+[here](https://qamar-93.github.io/front-end-task/)
+
+2) use both scripts 
+    > npm run dev:start
+    > npm run dev:build
+
+3) Run the web site in your local host with port 4000. 
+  > http://localhost:4000/
+
+4)  Navigate between the interfaces using the icons in the menu.
