@@ -12,7 +12,7 @@
 > git clone https://github.com/Qamar-93/Map-Api.git
 
 2) use both scripts:  
-    > npm run dev:start\n
+    > npm run dev:start
 
     > npm run dev:build
 
